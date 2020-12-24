@@ -2,6 +2,7 @@
 
 // URL: https://www.hackerrank.com/challenges/between-two-sets
 
+// Returns the number of integers that მeets the given conditions
 function getTotalX($a, $b) {
     
     $res = 0;
