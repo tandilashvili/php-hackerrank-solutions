@@ -2,6 +2,8 @@
 
 // URL: https://www.hackerrank.com/challenges/happy-ladybugs
 
+// Prints YES on a new line if all the ladybugs can be made 
+// happy through some number of moves. Otherwise, prints NO
 function happyLadybugs($b) {
     
     $res = 'YES';
